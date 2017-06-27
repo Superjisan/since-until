@@ -1,0 +1,44 @@
+{
+  "name": "since-until",
+  "version": "0.0.1",
+  "description": "an app that lets you see the time since or until another time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "time",
+    "since",
+    "until",
+    "clock"
+  ],
+  "author": "Jisan Zaman",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-register": "^6.24.1",
+    "express": "^4.15.3",
+    "jest": "^20.0.4",
+    "prop-types": "^15.5.10",
+    "qs": "^6.4.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0",
+    "serve-static": "^1.12.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-runtime": "^6.3.13",
+    "webpack": "^2.6.1",
+    "webpack-dev-middleware": "^1.4.0",
+    "webpack-hot-middleware": "^2.9.1"
+  }
+}
