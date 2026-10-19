@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --allow-read dev.ts",
+    "test": "TZ=America/New_York deno test --allow-read"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
