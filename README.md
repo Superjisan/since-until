@@ -1,6 +1,8 @@
 # Since Until
 
-Static HTML, CSS and JavaScript app showing the time since or until a date, in years, months, days, hours, minutes and seconds.
+Do you need to know exactly when Trump is going to leave office? Or the exact number of days since the Fall of the Roman Empire? Then I've got the app for you.
+
+Since Until is an app that shows it to you live!
 
 ## Install Deno
 
